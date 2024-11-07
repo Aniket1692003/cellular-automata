@@ -19,6 +19,7 @@ This project implements Conway's Game of Life using Python and Pygame. Pygame is
 
 - Python 3.x
 - Pygame
+- Numpy
 
 ### Installation
 
@@ -26,3 +27,4 @@ To install Pygame, use pip:
 
 ```bash
 pip install pygame
+pip install numpy
